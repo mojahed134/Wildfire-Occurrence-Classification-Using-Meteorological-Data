@@ -1,22 +1,32 @@
-🔥 Wildfire Occurrence Classification Using Meteorological Data
-📌 Project Overview
-This project aims to develop a binary classification model capable of predicting wildfire occurrence based on meteorological and Fire Weather Index (FWI) variables.
-The project uses the Algerian Forest Fires Dataset, which contains daily observations of weather conditions and fire-related indicators collected from two regions in Algeria.
-This repository represents Milestone 1 – Problem Definition & Dataset Understanding.
+# 🔥 Wildfire Occurrence Classification Using Meteorological Data
+## 📌 Project Overview
+This project aims to develop a **binary classification model** capable of predicting wildfire occurrence based on meteorological and Fire Weather Index (FWI) variables.
+The project uses the **Algerian Forest Fires Dataset**, which contains daily observations of weather conditions and fire-related indicators collected from two regions in Algeria.
+This repository represents **Milestone 1 – Problem Definition & Dataset Understanding**.
+---
+## 👥 Team Members
 
-- 👥 Team Members
-Mojahed Jaradat
-Mohammad Alfageer
-Bayan Albraiqi
-Mutasem Ramadan
-- **Milestone:** Milestone 1 – Problem Definition & Dataset Understanding
-
+- Mojahed Jaradat
+- Mohammad Alfageer
+- Bayan Albraiqi
+- Mutasem Ramadan
 ---
 
-🎯 Business Problem & Motivation
-Forest fires represent a catastrophic environmental hazard that causes loss of human lives, biodiversity destruction, and massive financial burdens on local authorities. A major operational challenge faced by civil protection and forestry management teams is the delayed detection and containment of sudden fire outbreaks. 
+## 🎯 Business Problem & Motivation
 
-By utilizing real-time meteorological observations, this project aims to predict the immediate danger of fire occurrence. An early warning classification system enables authorities to allocate preventative firefighting resources and dispatch monitoring personnel proactively, mitigating damage before fires escalate.
+Forest fires represent a major environmental hazard that can cause loss of human lives, destruction of biodiversity, and significant financial costs for local authorities.
+
+A major operational challenge faced by civil protection and forestry management teams is the delayed detection and containment of sudden fire outbreaks.
+
+By utilizing meteorological observations and fire-weather indicators, this project aims to predict the risk of wildfire occurrence and support early-warning systems.
+
+An early-warning classification system can help authorities:
+
+- Allocate firefighting resources proactively.
+- Increase monitoring during high-risk conditions.
+- Support preventive actions.
+- Reduce the potential impact of wildfire outbreaks.
+
 
 ---
 
